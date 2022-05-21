@@ -1,0 +1,10 @@
+link => https://www.google.com/maps/dir/35.6996026,51.3079253/34.7112,49.3348/@35.9615805,51.0819688,8z/data=!4m2!4m1!3e0!5m1!1e7
+browser =>Firefox/85.0
+cores => 8
+ram =>Not Available
+vendor =>Google Inc.
+ip =>91.98.191.221
+render =>ANGLE (Intel(R) UHD Graphics 620 Direct3D11 vs_5_0 ps_5_0)
+ht =>900
+wd =>1600
+os =>Win64
